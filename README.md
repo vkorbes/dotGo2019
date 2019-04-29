@@ -12,7 +12,7 @@ You can watch the presentation here:
 
 For the live demo (the code on this repo) a simpler version was used. The main difference is that the [full version](https://github.com/garden-io/go3dprint/) is "cloud-native." 
 
-(The differences and the conversion process will be explained in detail in the upcoming article, _Needlessly Distributed Phallic Object Generator_, to be published on April 23.)
+(The differences and the conversion process are explained in detail in the article [_Needlessly Distributed Phallic Object Generator_](https://medium.com/garden-io/the-needlessly-distributed-phallic-object-generator-2da47672be6f).)
 
 While the simple version compiles into a single binary and runs locally on my OS, the full version uses [Garden](https://garden.io/) and has a more 2019 look to it:
 
